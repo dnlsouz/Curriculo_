@@ -89,9 +89,60 @@ border-bottom: 1px solid rgb(255,255,255,0.2);
     font-weight: 300;
 }
 
+.contactinfo
+{
+    padding-top: 40px;
+}
+
+.title
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.contactinfo ul li 
+ {
+    color: #fff;
+    font-weight: 300;
+ }
+
+ .conection.formacao li
+ {
+    margin-bottom: 15px;
+
+ }
+ .conection.formacao h5
+ {
+    color: #fff;
+    font-weight: 500;
+ }
+ 
+
+
+
+
+
+
+
 .container .right_side
 {
     position: relative;
     background: #fff;
     padding: 40px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
